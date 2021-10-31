@@ -13,6 +13,7 @@ namespace Car_Interhence.Models
         public string Color="Null";
         public string GearBox="Null";
         public int Count;
+        public bool Engine = false;
         public Vehicle(string brand,string model)
         {
             Brand = brand;
@@ -30,29 +31,30 @@ namespace Car_Interhence.Models
             Color = color;
             Count = count;
         }
-        public Vehicle(string brand, int productyear, int walk, string color)  // : this(brand, productyear, walk, color)
+        public Vehicle(string brand, string model, int productyear, string color, int count,bool engine) : this(brand, model,productyear,color,count)
+        {
+            Engine = engine;
+        }
+        public Vehicle(string brand, int productyear, int walk, string color,bool engine)  // : this(brand, productyear, walk, color)
         {
             Brand = brand;
             ProductYear = productyear;
             Walk = walk;
             Color = color;
-
+            Engine = engine;
         }
         public Vehicle(string brand, string model, int productyear, int walk, string color, string gearbox) : this(brand, model, productyear, walk, color)
         {
-            GearBox = gearbox;
-            
+            GearBox = gearbox;     
+        }
+        public Vehicle(string brand, string model, int productyear, int walk, string color, bool engine) : this(brand, model, productyear, walk, color)
+        {
+            Engine = engine;
         }
         public Vehicle(string brand, string model, int productyear, int walk, string color, string gearbox,int count) : this(brand, model,productyear,walk,color)
         {
             GearBox = gearbox;
             Count = count;
         }
-
-        
-        //public Vehicle(string brand, string model, int productyear, int walk, string color, string gearbox) : this(brand, model, productyear, walk, color, gearbox)
-        //{
-
-        //}
     }
 }

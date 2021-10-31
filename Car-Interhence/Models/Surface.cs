@@ -6,6 +6,7 @@ namespace Car_Interhence.Models
 {
     class Surface:Vehicle
     {
+        
         public Surface(string brand, string model):base(brand,model)
         {
                 
@@ -14,13 +15,13 @@ namespace Car_Interhence.Models
         {
             
         }
-        public Surface(string brand, string model, int productyear, int walk, string color) : base(brand, model, productyear, walk, color)
+        public Surface(string brand, string model, int productyear, int walk, string color,bool engine) : base(brand, model, productyear, walk, color,engine)
         {
-
+            
         }
-        public Surface(string brand, int productyear, int walk, string color) : base(brand, productyear, walk, color)
+        public Surface(string brand, int productyear, int walk, string color,bool engine) : base(brand, productyear, walk, color,engine)
         {
-
+            
         }
     }
 }
