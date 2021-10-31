@@ -1,0 +1,14 @@
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\bin\Debug\netcoreapp3.1\Car-Interhence.exe
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\bin\Debug\netcoreapp3.1\Car-Interhence.deps.json
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\bin\Debug\netcoreapp3.1\Car-Interhence.runtimeconfig.json
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\bin\Debug\netcoreapp3.1\Car-Interhence.runtimeconfig.dev.json
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\bin\Debug\netcoreapp3.1\Car-Interhence.dll
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\bin\Debug\netcoreapp3.1\Car-Interhence.pdb
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\obj\Debug\netcoreapp3.1\Car-Interhence.csproj.AssemblyReference.cache
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\obj\Debug\netcoreapp3.1\Car-Interhence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\obj\Debug\netcoreapp3.1\Car-Interhence.AssemblyInfoInputs.cache
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\obj\Debug\netcoreapp3.1\Car-Interhence.AssemblyInfo.cs
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\obj\Debug\netcoreapp3.1\Car-Interhence.csproj.CoreCompileInputs.cache
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\obj\Debug\netcoreapp3.1\Car-Interhence.dll
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\obj\Debug\netcoreapp3.1\Car-Interhence.pdb
+C:\Users\Orxan477\source\repos\Car-Interhence\Car-Interhence\obj\Debug\netcoreapp3.1\Car-Interhence.genruntimeconfig.cache
