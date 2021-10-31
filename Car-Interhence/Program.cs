@@ -46,8 +46,8 @@ namespace Car_Interhence
 
             //Console.WriteLine("-----------------------");
 
-            //Sheep sheep1 = new Sheep("Yamaha", "Gemi");
-            //sheep1.SheepInfo();
+            //Ship ship1 = new Ship("Yamaha", "Gemi");
+            //ship1.ShipInfo();
         }
     }
 }
